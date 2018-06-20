@@ -1,5 +1,7 @@
 # hello-world
-My first GitHub Repo
+This is a dumping ground for various notes from online courses.
 
-I'm GVL - A complete noob at coding, i've tried to pick up this skill a few times and here I am going at it again.
-I love all things tech.
+Currently:
+
+Udemy: The Web Developper Bootcamp by Colt Steele
+LinuxAcademy: Ansible
