@@ -43,6 +43,20 @@ Assuming x = 5 and y = 9
 | ||        | OR    | y >9 || x === 5   | true      |
 | !         | NOT   | !(x === y)        | true      |
 
+**Logical `AND` operation**
+
+true && true;   //true
+true && false;  //false
+false && true;  //false
+false && false; //false
+
+**Logical `OR` operation**
+
+true || true;   //true
+true || false;  //true
+false || true;  //true
+false || false; //false
+
 ## Truthy and Falsy Values
 
 Falsy Values:
@@ -55,3 +69,20 @@ Falsy Values:
 
  Everything else is truthy
 
+## Conditionals
+
+* if
+* else if
+* else
+
+## Functions that we saw in this module
+
+`indexOf`
+
+From here I asked myself:
+
+- where is this function defined 
+--> this leads me to [`String.prototype.indexOf()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf)
+---> this leads to the question of what is a the concept of `prototype`, which leads me to look quickly at [ECMA Script Specifications](http://www.ecma-international.org/ecma-262/8.0/) 
+[ ] Need to read the ECMA specification
+[ ] Need to understand better the concept of the `constructor`
