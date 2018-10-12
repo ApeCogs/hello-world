@@ -30,3 +30,5 @@
 
 * click on effects library
 [ ] Test all transitions
+
+notes
