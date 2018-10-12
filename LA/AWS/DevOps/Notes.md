@@ -156,7 +156,7 @@ The Periodic Table of DevOps Tools: https://xebialabs.com/periodic-table-of-devo
 ## Virtualization and containerization
 
 * Hypervisors: ESXI, Hyper-V, Xenserver
-* Containers: Docker, Kubernetes
+* Containers: Docker
 
 ## Monitoring
 
@@ -192,7 +192,7 @@ Aggregation & Analytics
 * Zookeeper
     * From Apache
     * Can work alongside kubernetes
-    * Offers
+    * Offers centralized service registry
 * Terraform
     * combines orchestration and infrastructure-as-code
     * works well with other tools (like Ansible)
